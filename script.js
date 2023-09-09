@@ -12,7 +12,7 @@ button.onclick = function jump () {
         }
         setTimeout(function(){
             dino.classList.remove('jump')
-        }, 300)
+        }, 400)
     }
 
 function jump () {
